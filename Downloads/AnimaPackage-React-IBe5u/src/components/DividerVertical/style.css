@@ -1,0 +1,5 @@
+.divider-vertical {
+  background-color: var(--grey-200);
+  height: 48px;
+  width: 1px;
+}
