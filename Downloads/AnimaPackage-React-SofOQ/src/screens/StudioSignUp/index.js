@@ -1,0 +1,1 @@
+export { StudioSignUp } from "./StudioSignUp";

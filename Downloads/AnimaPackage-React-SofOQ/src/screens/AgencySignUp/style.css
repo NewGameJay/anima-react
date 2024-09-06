@@ -1,0 +1,319 @@
+.agency-sign-up {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.agency-sign-up .NG-landing-page-wrapper {
+  height: 1889px;
+  width: 1418px;
+}
+
+.agency-sign-up .NG-landing-page {
+  height: 1889px;
+  width: 1416px;
+}
+
+.agency-sign-up .overlap {
+  height: 1882px;
+  left: 8px;
+  position: relative;
+  top: 8px;
+  width: 1410px;
+}
+
+.agency-sign-up .div-overflow-x {
+  border-radius: 16px 16px 0px 0px;
+  height: 1882px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1409px;
+}
+
+.agency-sign-up .frame {
+  background-color: #ffffff;
+  height: 146px;
+  left: 1px;
+  position: relative;
+  top: 1736px;
+}
+
+.agency-sign-up .image {
+  height: 63px;
+  left: 667px;
+  position: absolute;
+  top: 42px;
+  width: 107px;
+}
+
+.agency-sign-up .main {
+  height: 1736px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 1409px;
+}
+
+.agency-sign-up .div-pt {
+  background: linear-gradient(
+    180deg,
+    rgb(220.11, 7.02, 255) 0%,
+    rgb(154.05, 68.79, 253.61) 66.24%,
+    rgb(89, 10, 160) 100%
+  );
+  height: 1736px;
+}
+
+.agency-sign-up .div {
+  height: 60px;
+  left: 70px;
+  position: relative;
+  top: 25px;
+  width: 1269px;
+}
+
+.agency-sign-up .text-wrapper {
+  color: #ededed;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 373px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 50px;
+}
+
+.agency-sign-up .text-wrapper-2 {
+  color: #ededed;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 261px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 74px;
+}
+
+.agency-sign-up .text-wrapper-3 {
+  color: #ededed;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 160px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 62px;
+}
+
+.agency-sign-up .image-h-rem {
+  height: 40px;
+  left: 4px;
+  position: absolute;
+  top: 7px;
+  width: 88px;
+}
+
+.agency-sign-up .div-py {
+  border-radius: 24px;
+  height: 1339px;
+  left: 107px;
+  position: absolute;
+  top: 266px;
+  width: 1186px;
+}
+
+.agency-sign-up .link-hero-join {
+  border: 3px solid;
+  border-color: transparent;
+  border-image: linear-gradient(
+      to bottom,
+      rgb(234.02, 105.93, 255),
+      rgb(177.22, 110.62, 255) 25%,
+      rgb(182.43, 115.39, 253.64) 50%,
+      rgb(203.63, 158.01, 246.05) 75%,
+      rgb(206.91, 163.91, 245.55) 100%
+    )
+    1;
+  border-radius: 20px;
+  height: 90px;
+  left: 444px;
+  position: absolute;
+  top: 735px;
+  width: 297px;
+}
+
+.agency-sign-up .text-wrapper-4 {
+  color: #ededed;
+  font-family: "Montserrat", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  height: 29px;
+  left: 29px;
+  letter-spacing: 0.95px;
+  line-height: 28.5px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 228px;
+}
+
+.agency-sign-up .icon {
+  height: 24px;
+  left: 260px;
+  position: absolute;
+  top: 33px;
+  width: 14px;
+}
+
+.agency-sign-up .AGENCY-NAME-wrapper {
+  background-color: #ffffff73;
+  border: 3px solid;
+  border-color: transparent;
+  border-image: linear-gradient(
+      to bottom,
+      rgb(234.02, 105.93, 255),
+      rgb(177.22, 110.62, 255) 25%,
+      rgb(182.43, 115.39, 253.64) 50%,
+      rgb(203.63, 158.01, 246.05) 75%,
+      rgb(206.91, 163.91, 245.55) 100%
+    )
+    1;
+  border-radius: 20px;
+  height: 90px;
+  left: 340px;
+  position: absolute;
+  top: 248px;
+  width: 505px;
+}
+
+.agency-sign-up .input {
+  background-color: transparent;
+  border: 0;
+  color: #ededed;
+  font-family: "Montserrat", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  height: 29px;
+  left: 29px;
+  letter-spacing: 0.95px;
+  line-height: 28.5px;
+  padding: 0;
+  position: relative;
+  top: 28px;
+  width: 228px;
+}
+
+.agency-sign-up .TEAM-SIZE-wrapper {
+  background-color: #ffffff73;
+  border: 3px solid;
+  border-color: transparent;
+  border-image: linear-gradient(
+      to bottom,
+      rgb(234.02, 105.93, 255),
+      rgb(177.22, 110.62, 255) 25%,
+      rgb(182.43, 115.39, 253.64) 50%,
+      rgb(203.63, 158.01, 246.05) 75%,
+      rgb(206.91, 163.91, 245.55) 100%
+    )
+    1;
+  border-radius: 20px;
+  height: 90px;
+  left: 340px;
+  position: absolute;
+  top: 486px;
+  width: 505px;
+}
+
+.agency-sign-up .email-wrapper {
+  background-color: #ffffff73;
+  border: 3px solid;
+  border-color: transparent;
+  border-image: linear-gradient(
+      to bottom,
+      rgb(234.02, 105.93, 255),
+      rgb(177.22, 110.62, 255) 25%,
+      rgb(182.43, 115.39, 253.64) 50%,
+      rgb(203.63, 158.01, 246.05) 75%,
+      rgb(206.91, 163.91, 245.55) 100%
+    )
+    1;
+  border-radius: 20px;
+  height: 90px;
+  left: 340px;
+  position: absolute;
+  top: 364px;
+  width: 505px;
+}
+
+.agency-sign-up .link-PHONE {
+  background-color: #ffffff73;
+  border: 3px solid;
+  border-color: transparent;
+  border-image: linear-gradient(
+      to bottom,
+      rgb(234.02, 105.93, 255),
+      rgb(177.22, 110.62, 255) 25%,
+      rgb(182.43, 115.39, 253.64) 50%,
+      rgb(203.63, 158.01, 246.05) 75%,
+      rgb(206.91, 163.91, 245.55) 100%
+    )
+    1;
+  border-radius: 20px;
+  height: 90px;
+  left: 340px;
+  position: absolute;
+  top: 608px;
+  width: 505px;
+}
+
+.agency-sign-up .ls-tight {
+  height: 146px;
+  left: 274px;
+  position: absolute;
+  top: 79px;
+  width: 637px;
+}
+
+.agency-sign-up .overlap-group {
+  height: 92px;
+  left: -20px;
+  position: relative;
+  top: 41px;
+  width: 678px;
+}
+
+.agency-sign-up .want-to-learn-more {
+  height: 19px;
+  left: 131px;
+  position: absolute;
+  top: 73px;
+  width: 415px;
+}
+
+.agency-sign-up .text-wrapper-5 {
+  color: #ededed;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30.8px;
+  font-weight: 700;
+  height: 73px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 72.8px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 678px;
+}

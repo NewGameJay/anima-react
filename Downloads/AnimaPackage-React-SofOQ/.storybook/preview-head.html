@@ -1,0 +1,49 @@
+<style>
+  @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+  * {
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+  }
+  html,
+  body {
+    margin: 0px;
+    height: 100%;
+  }
+  /* a blue color as a generic focus style */
+  button:focus-visible {
+    outline: 2px solid #4a90e2 !important;
+    outline: -webkit-focus-ring-color auto 5px !important;
+  }
+  a {
+    text-decoration: none;
+  }
+
+  :root {
+    --collection-1-agencyuser: initial;
+    --collection-1-creatoruser: initial;
+    --collection-1-studiouser: initial;
+  }
+
+  /*
+
+To enable a theme in your HTML, simply add one of the following data attributes to an HTML element, like so:
+
+<body data-collection-1-mode="mode-1">
+<!-- the rest of your content -->
+</body>
+You can apply the theme on any DOM node, not just the `body`
+
+*/
+
+  [data-collection-1-mode="mode-1"] {
+    --collection-1-agencyuser: initial;
+    --collection-1-creatoruser: initial;
+    --collection-1-studiouser: initial;
+  }
+
+  [data-collection-1-mode="mode-2"] {
+    --collection-1-agencyuser: none;
+    --collection-1-creatoruser: none;
+    --collection-1-studiouser: none;
+  }
+</style>

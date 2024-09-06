@@ -1,0 +1,285 @@
+.CHOOSE-SIGN-UP {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.CHOOSE-SIGN-UP .NG-landing-page-wrapper-3 {
+  height: 1889px;
+  width: 1418px;
+}
+
+.CHOOSE-SIGN-UP .overlap-group-wrapper {
+  height: 1889px;
+  width: 1416px;
+}
+
+.CHOOSE-SIGN-UP .overlap-3 {
+  height: 1882px;
+  left: 8px;
+  position: relative;
+  top: 8px;
+  width: 1410px;
+}
+
+.CHOOSE-SIGN-UP .div-overflow-x-2 {
+  border-radius: 16px 16px 0px 0px;
+  height: 1882px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1409px;
+}
+
+.CHOOSE-SIGN-UP .img-wrapper {
+  background-color: #ffffff;
+  height: 146px;
+  left: 1px;
+  position: relative;
+  top: 1736px;
+}
+
+.CHOOSE-SIGN-UP .image-2 {
+  height: 63px;
+  left: 667px;
+  position: absolute;
+  top: 42px;
+  width: 107px;
+}
+
+.CHOOSE-SIGN-UP .main-2 {
+  height: 1736px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 1409px;
+}
+
+.CHOOSE-SIGN-UP .div-pt-2 {
+  background: linear-gradient(
+    180deg,
+    rgb(220.11, 7.02, 255) 0%,
+    rgb(154.05, 68.79, 253.61) 66.24%,
+    rgb(89, 10, 160) 100%
+  );
+  height: 1736px;
+}
+
+.CHOOSE-SIGN-UP .frame-3 {
+  height: 60px;
+  left: 70px;
+  position: relative;
+  top: 25px;
+  width: 1269px;
+}
+
+.CHOOSE-SIGN-UP .image-h-rem-3 {
+  background-image: url(../../../static/img/image-h-rem-10.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 0px none;
+  height: 40px;
+  left: 4px;
+  position: absolute;
+  top: 7px;
+  width: 88px;
+}
+
+.CHOOSE-SIGN-UP .home {
+  height: 24px;
+  left: 160px;
+  position: absolute;
+  top: 18px;
+  width: 62px;
+}
+
+.CHOOSE-SIGN-UP .text-wrapper-11 {
+  color: #ededed;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 62px;
+}
+
+.CHOOSE-SIGN-UP .agency {
+  height: 24px;
+  left: 261px;
+  position: absolute;
+  top: 18px;
+  width: 74px;
+}
+
+.CHOOSE-SIGN-UP .text-wrapper-12 {
+  color: #ededed;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 74px;
+}
+
+.CHOOSE-SIGN-UP .docs {
+  height: 24px;
+  left: 373px;
+  position: absolute;
+  top: 18px;
+  width: 50px;
+}
+
+.CHOOSE-SIGN-UP .text-wrapper-13 {
+  color: #ededed;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 50px;
+}
+
+.CHOOSE-SIGN-UP .div-py-3 {
+  border-radius: 24px;
+  height: 1339px;
+  left: 107px;
+  position: absolute;
+  top: 266px;
+  width: 1186px;
+}
+
+.CHOOSE-SIGN-UP .ls-tight-2 {
+  height: 146px;
+  left: 274px;
+  position: absolute;
+  top: 79px;
+  width: 637px;
+}
+
+.CHOOSE-SIGN-UP .overlap-4 {
+  height: 100px;
+  left: -20px;
+  position: relative;
+  top: 41px;
+  width: 678px;
+}
+
+.CHOOSE-SIGN-UP .group {
+  height: 38px;
+  left: 107px;
+  position: absolute;
+  top: 62px;
+  width: 465px;
+}
+
+.CHOOSE-SIGN-UP .overlap-group-3 {
+  height: 38px;
+  left: 44px;
+  position: relative;
+  width: 419px;
+}
+
+.CHOOSE-SIGN-UP .is-there-a {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 378px;
+}
+
+.CHOOSE-SIGN-UP .check-the-FAQ {
+  height: 38px;
+  left: 178px;
+  position: absolute;
+  top: 0;
+  width: 241px;
+}
+
+.CHOOSE-SIGN-UP .text-wrapper-14 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(
+    180deg,
+    rgb(149.4, 52.45, 236.53) 16.86%,
+    rgb(247.62, 111.9, 228.06) 43.94%,
+    rgb(186.65, 110.6, 255) 100%
+  );
+  background-clip: text;
+  color: transparent;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  height: 38px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 72.8px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-fill-color: transparent;
+  top: -1px;
+  white-space: nowrap;
+  width: 241px;
+}
+
+.CHOOSE-SIGN-UP .text-wrapper-15 {
+  color: #ededed;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30.8px;
+  font-weight: 700;
+  height: 73px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 72.8px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 678px;
+}
+
+.CHOOSE-SIGN-UP .continue-path-button-2 {
+  height: 90px;
+  left: 444px;
+  position: absolute;
+  top: 746px;
+  width: 297px;
+}
+
+.CHOOSE-SIGN-UP .selection-creator {
+  height: 249px;
+  left: 410px;
+  position: absolute;
+  top: 361px;
+  width: 366px;
+}
+
+.CHOOSE-SIGN-UP .selection-agency {
+  height: 249px;
+  left: 838px;
+  position: absolute;
+  top: 361px;
+  width: 366px;
+}
+
+.CHOOSE-SIGN-UP .selection-studio {
+  height: 249px;
+  left: -18px;
+  position: absolute;
+  top: 361px;
+  width: 366px;
+}

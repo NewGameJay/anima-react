@@ -1,0 +1,327 @@
+.studio-sign-up {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.studio-sign-up .NG-landing-page-wrapper-2 {
+  height: 1889px;
+  width: 1418px;
+}
+
+.studio-sign-up .overlap-wrapper {
+  height: 1889px;
+  width: 1416px;
+}
+
+.studio-sign-up .overlap-2 {
+  height: 1882px;
+  left: 8px;
+  position: relative;
+  top: 8px;
+  width: 1410px;
+}
+
+.studio-sign-up .frame-wrapper {
+  border-radius: 16px 16px 0px 0px;
+  height: 1882px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1409px;
+}
+
+.studio-sign-up .image-wrapper {
+  background-color: #ffffff;
+  height: 146px;
+  left: 1px;
+  position: relative;
+  top: 1736px;
+}
+
+.studio-sign-up .img {
+  height: 63px;
+  left: 667px;
+  position: absolute;
+  top: 42px;
+  width: 107px;
+}
+
+.studio-sign-up .div-pt-wrapper {
+  height: 1736px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 1409px;
+}
+
+.studio-sign-up .div-wrapper {
+  background: linear-gradient(
+    180deg,
+    rgb(220.11, 7.02, 255) 0%,
+    rgb(154.05, 68.79, 253.61) 66.24%,
+    rgb(89, 10, 160) 100%
+  );
+  height: 1736px;
+}
+
+.studio-sign-up .frame-2 {
+  height: 60px;
+  left: 70px;
+  position: relative;
+  top: 25px;
+  width: 1269px;
+}
+
+.studio-sign-up .text-wrapper-6 {
+  color: #ededed;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 373px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 50px;
+}
+
+.studio-sign-up .text-wrapper-7 {
+  color: #ededed;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 261px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 74px;
+}
+
+.studio-sign-up .text-wrapper-8 {
+  color: #ededed;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 160px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 62px;
+}
+
+.studio-sign-up .image-h-rem-2 {
+  height: 40px;
+  left: 4px;
+  position: absolute;
+  top: 7px;
+  width: 88px;
+}
+
+.studio-sign-up .div-py-2 {
+  border-radius: 24px;
+  height: 1339px;
+  left: 107px;
+  position: absolute;
+  top: 266px;
+  width: 1186px;
+}
+
+.studio-sign-up .continue-path-button {
+  height: 90px;
+  left: 444px;
+  position: absolute;
+  top: 736px;
+  width: 297px;
+}
+
+.studio-sign-up .h-ls-tight {
+  height: 146px;
+  left: 274px;
+  position: absolute;
+  top: 79px;
+  width: 637px;
+}
+
+.studio-sign-up .overlap-group-2 {
+  height: 100px;
+  left: -20px;
+  position: relative;
+  top: 41px;
+  width: 678px;
+}
+
+.studio-sign-up .want-to-learn-more-2 {
+  height: 19px;
+  left: 131px;
+  position: absolute;
+  top: 73px;
+  width: 415px;
+}
+
+.studio-sign-up .check-the-website {
+  height: 38px;
+  left: 324px;
+  position: absolute;
+  top: 62px;
+  width: 246px;
+}
+
+.studio-sign-up .text-wrapper-9 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(
+    180deg,
+    rgb(149.4, 52.45, 236.53) 16.86%,
+    rgb(247.62, 111.9, 228.06) 43.94%,
+    rgb(186.65, 110.6, 255) 100%
+  );
+  background-clip: text;
+  color: transparent;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  height: 38px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 72.8px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  text-fill-color: transparent;
+  top: -1px;
+  white-space: nowrap;
+  width: 246px;
+}
+
+.studio-sign-up .text-wrapper-10 {
+  color: #ededed;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30.8px;
+  font-weight: 700;
+  height: 73px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 72.8px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 678px;
+}
+
+.studio-sign-up .studio-sign-up-form {
+  height: 450px;
+  left: 341px;
+  position: absolute;
+  top: 249px;
+  width: 505px;
+}
+
+.studio-sign-up .STUDIO-NAME-wrapper {
+  background-color: #ffffff73;
+  border: 3px solid;
+  border-color: transparent;
+  border-image: linear-gradient(
+      to bottom,
+      rgb(234.02, 105.93, 255),
+      rgb(177.22, 110.62, 255) 25%,
+      rgb(182.43, 115.39, 253.64) 50%,
+      rgb(203.63, 158.01, 246.05) 75%,
+      rgb(206.91, 163.91, 245.55) 100%
+    )
+    1;
+  border-radius: 20px;
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 505px;
+}
+
+.studio-sign-up .input-2 {
+  background-color: transparent;
+  border: 0;
+  color: #ededed;
+  font-family: "Montserrat", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  height: 29px;
+  left: 29px;
+  letter-spacing: 0.95px;
+  line-height: 28.5px;
+  padding: 0;
+  position: relative;
+  top: 28px;
+  width: 228px;
+}
+
+.studio-sign-up .FLAGSHIP-TITLE-wrapper {
+  background-color: #ffffff73;
+  border: 3px solid;
+  border-color: transparent;
+  border-image: linear-gradient(
+      to bottom,
+      rgb(234.02, 105.93, 255),
+      rgb(177.22, 110.62, 255) 25%,
+      rgb(182.43, 115.39, 253.64) 50%,
+      rgb(203.63, 158.01, 246.05) 75%,
+      rgb(206.91, 163.91, 245.55) 100%
+    )
+    1;
+  border-radius: 20px;
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 238px;
+  width: 505px;
+}
+
+.studio-sign-up .input-wrapper {
+  background-color: #ffffff73;
+  border: 3px solid;
+  border-color: transparent;
+  border-image: linear-gradient(
+      to bottom,
+      rgb(234.02, 105.93, 255),
+      rgb(177.22, 110.62, 255) 25%,
+      rgb(182.43, 115.39, 253.64) 50%,
+      rgb(203.63, 158.01, 246.05) 75%,
+      rgb(206.91, 163.91, 245.55) 100%
+    )
+    1;
+  border-radius: 20px;
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 116px;
+  width: 505px;
+}
+
+.studio-sign-up .x-handle-wrapper {
+  background-color: #ffffff73;
+  border: 3px solid;
+  border-color: transparent;
+  border-image: linear-gradient(
+      to bottom,
+      rgb(234.02, 105.93, 255),
+      rgb(177.22, 110.62, 255) 25%,
+      rgb(182.43, 115.39, 253.64) 50%,
+      rgb(203.63, 158.01, 246.05) 75%,
+      rgb(206.91, 163.91, 245.55) 100%
+    )
+    1;
+  border-radius: 20px;
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 360px;
+  width: 505px;
+}
