@@ -1,1 +1,0 @@
-export { DividerVertical } from "./DividerVertical";
