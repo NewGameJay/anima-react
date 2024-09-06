@@ -1,14 +1,18 @@
 import React from "react";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createBrowserRouter, RouterProvider, Navigate } from "react-router-dom";
+import { ChooseSignUp } from "./screens/ChooseSignUp";
 import { AgencySignUp } from "./screens/AgencySignUp";
 import { StudioSignUp } from "./screens/StudioSignUp";
-import { ChooseSignUp } from "./screens/ChooseSignUp";
 import { CreatorSignUp } from "./screens/CreatorSignUp";
 
 const router = createBrowserRouter([
   {
-    path: "/*",
-    element: <AgencySignUp />,
+    path: "/",
+    element: <Navigate to="/choose-sign-up" replace />,
+  },
+  {
+    path: "/choose-sign-up",
+    element: <ChooseSignUp />,
   },
   {
     path: "/agency-sign-up",
@@ -17,10 +21,6 @@ const router = createBrowserRouter([
   {
     path: "/studio-sign-up",
     element: <StudioSignUp />,
-  },
-  {
-    path: "/choose-sign-up",
-    element: <ChooseSignUp />,
   },
   {
     path: "/creator-sign-up",
