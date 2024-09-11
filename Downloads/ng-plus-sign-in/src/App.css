@@ -1,0 +1,15 @@
+/* src/App.css */
+.app {
+  background-color: #f0e5ff;
+  color: #4b0082;
+  text-align: center;
+}
+
+button {
+  background-color: #d5006d;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
